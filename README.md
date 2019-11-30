@@ -33,7 +33,7 @@ The following shows the word cloud for Bitcoin and Ethereum
 ![Bitcoin_WordCloud](Images/bitcoin_wordcloud.PNG)
 
 ## Ethereum Word Cloud
-![Ethereum_WordCloud](images/ethereum_wordcloud.PNG)
+![Ethereum_WordCloud](Images/ethereum_wordcloud.PNG)
 
 The following shows entity visualization
 
